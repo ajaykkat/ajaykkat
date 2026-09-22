@@ -1,10 +1,14 @@
 # Hi, I’m Ajay Kattevirupu
 
+
 ### AI agents · Retrieval pipelines · Language models
+
 
 I build Python projects that connect language models to practical workflows, and explore how those models work under the hood. My work spans job-search assistants, semantic matching, agent infrastructure, and training small transformers.
 
+
 ## Selected projects
+
 
 | Project | What it explores | Built with |
 | --- | --- | --- |
@@ -13,10 +17,24 @@ I build Python projects that connect language models to practical workflows, and
 | [xLM](https://github.com/ajaykkat/xLM) | A character-level GPT trained on job descriptions, using nanoGPT to explore attention, training, and text generation. | Python, PyTorch, nanoGPT |
 | [AgentOS](https://github.com/ajaykkat/AgentOS) | Infrastructure for running and monitoring AI agents, with a web dashboard. | FastAPI, Next.js, PostgreSQL, Redis, Docker |
 
+
+## Workflow reliability demos
+
+New portfolio implementations built with synthetic data. Each includes runnable examples, tests, and documented limitations.
+
+| Project | What it demonstrates |
+| --- | --- |
+| [llm-eval-lite](https://github.com/ajaykkat/llm-eval-lite) | Assertion-based LLM evaluation, lexical evidence checks, cost/latency budgets, and regression comparisons. |
+| [Document Review Workbench](https://github.com/ajaykkat/document-review-workbench) | Validation of extracted fields, an operator review queue, and persistent decision history. |
+| [Reconcile Flow](https://github.com/ajaykkat/reconcile-flow) | CSV normalization, duplicate detection, decimal-safe reconciliation, and traceable exception reports. |
+
 ## Technical focus
+
 
 - **Applied AI:** tool-using agents, structured LLM outputs, embeddings, retrieval, and reranking.
 - **Model fundamentals:** transformer architecture, character-level tokenization, training curves, and autoregressive generation.
 - **Application engineering:** Python APIs, browser automation, live dashboards, and containerized services.
 
+
 Explore the pinned repositories below for source code, setup instructions, and design notes.
+
